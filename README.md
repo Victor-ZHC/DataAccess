@@ -1,0 +1,2 @@
+# DataAccess
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1c614499c0245b781b56a4b62319c55)](https://www.codacy.com/app/Victor-ZHC/DataAccess?utm_source=github.com&utm_medium=referral&utm_content=Victor-ZHC/DataAccess&utm_campaign=badger)
