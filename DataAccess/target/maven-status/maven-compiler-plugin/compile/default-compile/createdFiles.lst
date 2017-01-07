@@ -1,0 +1,13 @@
+com\adc\controller\BaseController.class
+com\adc\bean\BaseBean.class
+com\adc\bean\User.class
+com\adc\dao\IBaseDao.class
+com\adc\utils\DataSourceContextHolder.class
+com\adc\bean\ConfigBean.class
+com\adc\service\IBaseService.class
+com\adc\dao\impl\ConfigDaoImpl.class
+com\adc\utils\DynamicLoadBean.class
+com\adc\utils\DynamicDataSource.class
+com\adc\dao\IConfigDao.class
+com\adc\dao\impl\BaseDaoImpl.class
+com\adc\service\impl\BaseServiceImpl.class
